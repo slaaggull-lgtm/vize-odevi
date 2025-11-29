@@ -1,3 +1,7 @@
+Ad Soyad: Sıla Ağgül
+Öğrenci no: 250541020
+
+
 import java.util.Scanner;
 
 public class NotDurumu {
